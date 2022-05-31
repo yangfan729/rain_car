@@ -1,0 +1,1 @@
+"./LED.obj" "./LQ12864.obj" "./encoder.obj" "./key_deal.obj" "./main.obj" "./motor.obj" "./pid.obj" "./sys_clk_config.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
